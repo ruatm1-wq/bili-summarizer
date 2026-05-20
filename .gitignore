@@ -1,0 +1,7 @@
+# API Keys & Secrets
+.env
+.secrets
+cookies.txt
+output/
+__pycache__/
+*.pyc
