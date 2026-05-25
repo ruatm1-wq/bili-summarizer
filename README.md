@@ -1,5 +1,11 @@
 # 🎬 B站 AI 总结助手 / Bilibili Video AI Summarizer
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/ruatm1-wq/bili-summarizer?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/ruatm1-wq/bili-summarizer?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome">
+</p>
+
 [中文](#中文) | [English](#english)
 
 ---
